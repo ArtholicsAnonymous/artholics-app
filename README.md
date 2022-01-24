@@ -1,6 +1,11 @@
 # Artholic App
 Artholics Anonymous Website
 
+# Github Pages
+
+### `npm run deploy`
+Run this to deploy your changes to https://artholicsanonymous.github.io/artholics-app/ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
